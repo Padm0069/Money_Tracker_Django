@@ -31,3 +31,5 @@ source .env
 python manage.py migrate
 python manage.py runserver
 ```
+## Dashboard
+![alt text](https://github.com/Padm0069/Money_Tracker_Django/blob/main/readme_assets/dashboard.png)
