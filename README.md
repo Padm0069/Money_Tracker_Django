@@ -31,5 +31,7 @@ source .env
 python manage.py migrate
 python manage.py runserver
 ```
+## Home
+![alt text](https://github.com/Padm0069/Money_Tracker_Django/blob/main/readme_assets/Screenshot%202022-12-31%20002929.jpg)
 ## Dashboard
 ![alt text](https://github.com/Padm0069/Money_Tracker_Django/blob/main/readme_assets/dashboard.png)
