@@ -1,0 +1,44 @@
+body{
+	background-color: #333647;
+	color: white;
+}
+
+
+.validation_error {
+	color: red;
+}
+
+
+.nav-bar-btns{
+	margin-bottom: 0px;
+}
+
+#brand-logo{
+	height: 50px;
+	filter: brightness(0%) invert(100%);
+	margin-left: 10px;
+}
+
+.form-wrapper{
+	padding: 20px 35px;
+}
+
+
+.distance{
+	margin-bottom: 150px;
+}
+
+.form-signin-wrapper {
+	
+}
+
+/*heading, paragraph detail*/
+.heading1, .heading2, .para-detail{
+	/* color: white; */
+}
+
+@media (min-width: 576px) {
+	.modal-dialog {
+		max-width: 600px;
+	}
+}
