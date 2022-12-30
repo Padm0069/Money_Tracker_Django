@@ -11,7 +11,7 @@ Money Tracker is a Django based web application for splitting expenses with your
 - Uses Django's built-in authentication system to authenticate users
 - Uses Django's built-in ORM to store the data in an SQLite database
 
-##Frontend
+- ### **Frontend**
 - Uses Bootstrap and js for frontend.
 - Displays the list of transactions and allow the user to filter the transactions by date and category.
 
