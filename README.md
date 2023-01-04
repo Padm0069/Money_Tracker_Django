@@ -1,7 +1,7 @@
 # Money_Tracker_Django
 Part of Cohesive Intern hiring (Backend)
 Money Tracker is a Django based web application for splitting expenses with your friends 
-##Features
+### **Features**
 - ### **Backend (Django)**
 
 - REST API for
